@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "自由なステップ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:59:03.805364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自由なステップ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_自由なステップ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自由なステップ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_自由なステップ_サンボマスター.txt"
+    }
+  ]
+}
